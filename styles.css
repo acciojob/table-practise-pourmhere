@@ -1,4 +1,12 @@
-/*  your css code here. If applicable */
-th tr td{
-	border:1px solid black
-}
+       table {
+            background-color: yellow;
+        }
+        caption {
+            font-weight: bold;
+			text-align: center; 
+            caption-side: top; 
+        }
+        th,tr,td {
+            border: 1px solid black;
+            text-align: left;
+        }
