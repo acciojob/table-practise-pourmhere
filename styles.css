@@ -1,14 +1,14 @@
-       table {
-            background-color: rgb(255, 255, 0);
-		   border:1px solid rgb(0,0,0)
-		   
-        }
-        caption {
-            font-weight: bold;
-			text-align: center; 
-            caption-side: top; 
-        }
-        th,tr,td {
-            border: 1px solid black;
-            text-align: left;
-        }
+table {
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+th, tr, td {
+    border: 1px solid black;
+}
+
+caption {
+    font-weight: bold;
+    text-align: center; 
+    caption-side: top; 
+}
